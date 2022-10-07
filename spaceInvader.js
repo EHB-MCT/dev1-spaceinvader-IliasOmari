@@ -27,4 +27,14 @@ function drawAvatar() {
     context.fillRect(10, 25, 50, 100);
     context.fillRect(25, 75, 80, 50);
 
+    // Boven Rechts:
+
+    context.fillRect(225, 25, 50, 100);
+    context.fillRect(170, 75, 80, 50);
+
+    // Vierkant beneden:
+
+    context.fillRect(108, 210, 55, 55);
+
+
 }
